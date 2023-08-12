@@ -1,19 +1,16 @@
 ![](https://www.google.com/search?q=Abhinav+Malviya&tbm=isch&ved=2ahUKEwjzpubG4NeAAxWEoekKHWtuAwEQ2-cCegQIABAA&oq=Abhinav+Malviya&gs_lcp=CgNpbWcQAzIECCMQJ1C2DliiM2C9OWgAcAB4AIABiQKIAfkIkgEFMC4xLjSYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=88_XZLPhL4TDpgfr3I0I&bih=707&biw=1536&rlz=1C1ONGR_enIN1014IN1014#imgrc=qSAU35MdSdZmNM)  
   
 
-### <div align="center">I'm Abhinav Malviya, aUnity Game Developer || competitive programmer || Web and Android Developer || freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">I'm Abhinav Malviya, a Unity Game Developer || competitive programmer || Web and Android Developer || freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on my [Github profile ](https://github.com/Harsh444509A)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning Java and Android development  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- ❓ Ask me about anything related to Website development and competitive programming 
   
 
 <br/>  
