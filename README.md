@@ -1,5 +1,3 @@
-![](https://www.google.com/search?q=Abhinav+Malviya&tbm=isch&ved=2ahUKEwjzpubG4NeAAxWEoekKHWtuAwEQ2-cCegQIABAA&oq=Abhinav+Malviya&gs_lcp=CgNpbWcQAzIECCMQJ1C2DliiM2C9OWgAcAB4AIABiQKIAfkIkgEFMC4xLjSYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=88_XZLPhL4TDpgfr3I0I&bih=707&biw=1536&rlz=1C1ONGR_enIN1014IN1014#imgrc=qSAU35MdSdZmNM)  
-  
 
 ### <div align="center">I'm Abhinav Malviya, a Unity Game Developer || competitive programmer || Web and Android Developer</div>  
   
