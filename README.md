@@ -76,7 +76,7 @@
 
 <img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="200" alt="NUX_Octodex"  />
+<img align="right" height="200" src="https://user-images.AbhinavMalviya58.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="200" alt="NUX_Octodex"  />
 <br clear="both">
 ### GIF
 
