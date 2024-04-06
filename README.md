@@ -59,6 +59,23 @@
 
 ###
 
+### Analytics ⚙️
+
+[![GitHub User's stars](https://img.shields.io/github/stars/AbhinavMalviya58?color=green&label=GitHub%20Stars&logo=github&style=flat-square)](https://github.com/AbhinavMalviya58?tab=repositories&q=&type=public&language=&sort=stargazers)
+
+<p align="left">
+<a href="https://github.com/AbhinavMalviya58">
+  <img src="https://github.com/AbhinavMalviya58/AbhinavMalviya58/blob/main/github-metrics.svg"/>
+</a>
+</p>
+  
+<p align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavMalviya58" />
+<!--   <img height="180em" src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/github/3-stats.svg" /> -->
+</p>  
+
+<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
+
 <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="200" alt="NUX_Octodex"  />
 <br clear="both">
 ### GIF
