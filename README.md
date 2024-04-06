@@ -66,4 +66,4 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
-(https://github.com/AbhinavMalviya58/AbhinavMalviya58/blob/output/github-contribution-grid-snake.svg)
+![Snake gif](https://github.com/AbhinavMalviya58/AbhinavMalviya58/blob/output/github-contribution-grid-snake.svg)
