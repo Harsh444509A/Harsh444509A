@@ -62,7 +62,7 @@
 </div>
 
 ###
-<p align="left">
+<p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavMalviya58" />
 <!--   <img height="180em" src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/github/3-stats.svg" /> -->
 </p>  
