@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavmalviya58&" alt="abhinavmalviya58" /></p>
 
-![Snake gif](https://github.com/AbhinavMalviya58/AbhinavMalviya58/blob/output/github-contribution-grid-snake.svg)
+// ![Snake gif](https://github.com/AbhinavMalviya58/AbhinavMalviya58/blob/output/github-contribution-grid-snake.svg)
